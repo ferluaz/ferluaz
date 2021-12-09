@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fernando;
-- 👀 I’m interested in learn how to make better codes;
+- 👀 I’m interested in make better codes;
 - 🌱 I’m currently learning javaScript;
 - 📫 How to reach me fernandoluan1953@hotmail.com;
 
