@@ -1,5 +1,5 @@
 - 👋 Hello world! I’m Fernando;
-- 🌱 I’m currently learning javaScript;
+-  I’m currently learning javaScript;
 - 📫 fernandoluan1953@hotmail.com;
 
 <!---
