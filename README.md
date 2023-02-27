@@ -1,6 +1,8 @@
 - 👋 Hello world! I’m Fernando;
--  I’m currently learning javaScript;
-- 📫 fernandoluan1953@hotmail.com;
+-  jr Python dev;
+-  basic javaScript knowledge 
+-  I’m currently learning how to implementing chatgpt and others AIs on my aplications;
+- 📫 fernandoluan1953@gmail.com;
 
 <!---
 ferluaz/ferluaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
